@@ -2,7 +2,7 @@
 2 '
 3 '  21050001 STEP5 Assy2プログラム
 4 '
-5 ' 作成者：M.Hayakawa
+5 ' 作成者：自動化T
 6 ' 作成日：2021.07.09
 7 ' Ver 0.1 2021.07.09 STEP1から流用
 8 ' Ver 0.3 2021.12.22 画像検査関数ISInspection→ISInspectionSingle、画像検査追加 file:210542003
